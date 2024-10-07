@@ -1,0 +1,120 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    }
+.loc{
+    color: #93ff93;
+    font-size: 14px;
+    margin: 5px 0;
+}
+.disc{
+    font-size: 14px;
+    color: #aaa;
+    margin-bottom: 20px;
+}
+.main{
+    background-color: #1a1a1a;
+    border-radius: 15px;
+    padding: 20px;
+    width: 350px;
+    text-align: center;
+}
+.avatar-jessica{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+
+}
+.head{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.head h2{
+    color:hsl(75, 94%, 57%);
+    font-size: medium; 
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.b1{
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    
+}
+.b1 a{
+    text-decoration: none;
+    color: white;
+}
+.b2{
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+.b2 a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+.b3{
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+.b3 a{
+    text-decoration: none;
+    color: white;
+}
+.b4{
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+.b4 a{
+    text-decoration: none;
+    color: white;
+}
